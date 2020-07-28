@@ -1,6 +1,6 @@
 CREATE TABLE questionAnswers 
 (
-  topicid int
+  topicid int,
   answer VARCHAR(2000)
   
 );
